@@ -183,9 +183,4 @@ It serves as a template for **predictive modeling projects in telecom or other i
 
 ```
 
----
 
-If you want, I can also make a **shorter, GitHub-ready version** with badges, table of contents, and links so it looks professional on the repository front page.  
-
-Do you want me to do that?
-```
